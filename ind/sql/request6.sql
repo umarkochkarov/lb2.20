@@ -1,0 +1,1 @@
+select rank, name, rating from imdb where (directors='Christopher Nolan');

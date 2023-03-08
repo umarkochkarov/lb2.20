@@ -1,0 +1,11 @@
+┌──────┬───────────────────────┬────────┐
+│ rank │         name          │ rating │
+├──────┼───────────────────────┼────────┤
+│ 3    │ The Dark Knight       │ 9.0    │
+│ 14   │ Inception             │ 8.8    │
+│ 25   │ Interstellar          │ 8.6    │
+│ 41   │ The Prestige          │ 8.5    │
+│ 54   │ Memento               │ 8.4    │
+│ 69   │ The Dark Knight Rises │ 8.4    │
+│ 127  │ Batman Begins         │ 8.2    │
+└──────┴───────────────────────┴────────┘

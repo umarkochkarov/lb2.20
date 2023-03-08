@@ -1,0 +1,1 @@
+select rank, name, tagline from imdb where rank between 50 and 65;

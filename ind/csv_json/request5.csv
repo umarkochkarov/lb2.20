@@ -1,0 +1,20 @@
+┌────────────────────────────────────────────────┬──────┬────────┬──────────┬──────┐
+│                      name                      │ year │ rating │  budget  │ rank │
+├────────────────────────────────────────────────┼──────┼────────┼──────────┼──────┤
+│ The Shawshank Redemption                       │ 1994 │ 9.3    │ 25000000 │ 1    │
+│ The Godfather                                  │ 1972 │ 9.2    │ 6000000  │ 2    │
+│ The Godfather Part II                          │ 1974 │ 9.0    │ 13000000 │ 4    │
+│ 12 Angry Men                                   │ 1957 │ 9.0    │ 350000   │ 5    │
+│ Schindler's List                               │ 1993 │ 9.0    │ 22000000 │ 6    │
+│ Pulp Fiction                                   │ 1994 │ 8.9    │ 8000000  │ 8    │
+│ The Good, the Bad and the Ugly                 │ 1966 │ 8.8    │ 1200000  │ 10   │
+│ Star Wars: Episode V - The Empire Strikes Back │ 1980 │ 8.7    │ 18000000 │ 15   │
+│ Goodfellas                                     │ 1990 │ 8.7    │ 25000000 │ 17   │
+│ One Flew Over the Cuckoo's Nest                │ 1975 │ 8.7    │ 3000000  │ 18   │
+│ Se7en                                          │ 1995 │ 8.6    │ 33000000 │ 19   │
+│ It's a Wonderful Life                          │ 1946 │ 8.6    │ 3180000  │ 21   │
+│ The Silence of the Lambs                       │ 1991 │ 8.6    │ 19000000 │ 22   │
+│ Life Is Beautiful                              │ 1997 │ 8.6    │ 20000000 │ 26   │
+│ Star Wars: Episode IV - A New Hope             │ 1977 │ 8.6    │ 11000000 │ 28   │
+│ Spirited Away                                  │ 2001 │ 8.6    │ 19000000 │ 31   │
+└────────────────────────────────────────────────┴──────┴────────┴──────────┴──────┘

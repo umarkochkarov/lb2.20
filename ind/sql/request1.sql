@@ -1,0 +1,1 @@
+ select rank, name from imdb where rating=9.0;

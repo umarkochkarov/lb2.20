@@ -1,0 +1,1 @@
+select name, year, rating, budget, rank from imdb where rating > 8.5 and budget < 50000000;

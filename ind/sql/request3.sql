@@ -1,0 +1,1 @@
+select name, directors, tagline from imdb where year=2000 and rating>=8.0;

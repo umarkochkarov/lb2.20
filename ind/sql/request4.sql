@@ -1,0 +1,1 @@
+select name, year, rating from imdb where rating between 8.0 and 8.2 order by year;
